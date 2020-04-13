@@ -1,0 +1,10 @@
+.Footer_Heigh{
+    min-height: 12vh;
+    height: 100%;
+}
+.center button{
+    margin: 0 5px;
+}
+.row{
+    margin: 0 !important;
+}

@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+body{
+  font-family: 'Raleway', sans-serif;
+}
+
+h1,h2,h3,h4,h5{
+  font-weight: 900;
+}
+button,span{
+  font-weight: 700;
+
+}
+.Container_height {
+  min-height: 76vh;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
